@@ -1,9 +1,9 @@
 ﻿<# 
     
     Powershell Lab 
-    Manipulate Users, OUs, Groups, and Group Membership
+    User Menu
     Date: April 23 2020, Week 13
-    Created by: Sharon Jirak 
+    Created by: Levi Amubdsib 
 #>
 
 cls
